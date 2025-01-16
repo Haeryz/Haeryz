@@ -16,7 +16,7 @@ jobs:
       - name: Setup Metrics
         uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.AINGMACAN }}
           base: "repositories"
           plugin_languages: "yes"
           plugin_activity: "yes"
