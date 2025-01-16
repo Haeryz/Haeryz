@@ -68,4 +68,9 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="metrics/metrics.svg" alt="Metrics" />
+</div>
+
+
 ###
