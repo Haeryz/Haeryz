@@ -1,14 +1,18 @@
 <img align="right" src=".github/avatar.jpg" width="30%" height="30%" />
 
-silly anime girl on the internet.<br/>
+# Silly Anime Girl on the Internet
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haeryz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Haeryz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Haeryz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Haeryz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 
+---
 
-  <summary>more details about me</summary>
+<details>
+  <summary><strong>More Details About Me</strong></summary>
 
 ## 💼 Experience
 
@@ -29,7 +33,7 @@ silly anime girl on the internet.<br/>
 [![SASS Badge](https://img.shields.io/badge/sass-hotpink?style=flat&logo=SASS&logoColor=white)](https://sass-lang.com/)
 [![TailwindCSS Badge](https://img.shields.io/badge/tailwind_css-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-### Backend technologies
+### Backend Technologies
 [![Node.js Badge](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Deno Badge](https://img.shields.io/badge/deno-000000?style=flat&logo=deno&logoColor=white)](https://deno.com/)
 [![Bun Badge](https://img.shields.io/badge/bun-%23000000?style=flat&logo=bun&logoColor=white)](https://bun.sh/)
@@ -60,7 +64,9 @@ silly anime girl on the internet.<br/>
 [![Linux Badge](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)](https://wikipedia.org/wiki/Linux)
 [![Windows Server Badge](https://img.shields.io/badge/windows%20server-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
 
-#### Learning
+### Learning
 [![AWS Badge](https://img.shields.io/badge/aws-%23FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
 [![RabbitMQ Badge](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![Swift Badge](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
+
+</details>
