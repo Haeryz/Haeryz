@@ -1,76 +1,67 @@
-<h2 align="left">Hi 👋! My name is Ohio and I'm a Student from University of Muhammadiyah Malang</h2>
+<img align="right" src=".github/assets/avatar.jpg" width="30%" height="30%" />
 
-###
+silly anime girl on the internet.<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Haeryz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Haeryz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-###
+<details>
+  <summary>more details about me</summary>
 
-<br clear="both">
+## 💼 Experience
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHczN2g5ang0aXBzdWhmZDc3cnNmZmFnb3VhaHd1cGR6amhuMGF3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CAYVZA5NRb529kKQUc/giphy.gif"  />
+### Languages
+[![TypeScript Badge](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://wikipedia.org/wiki/JavaScript)
+[![Go Badge](https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
+[![Rust Badge](https://img.shields.io/badge/rust-%23000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![GraphQL Badge](https://img.shields.io/badge/-graphql-E10098?style=flat&logo=graphql&logoColor=white)](https://graphql.org/)
 
-###
+### Web-stack
+[![React.js badge](https://img.shields.io/badge/react.js-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js Badge](https://img.shields.io/badge/next.js-black?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Vue.js Badge](https://img.shields.io/badge/vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
+[![Nuxt.js Badge](https://img.shields.io/badge/nuxt.js-002E3B?style=flat&logo=nuxt&logoColor=#00DC82)](https://nuxt.com/)
+[![HTML Badge](https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=white)](https://wikipedia.org/wiki/HTML)
+[![CSS Badge](https://img.shields.io/badge/css-%231572B6?style=flat&logo=css&logoColor=white)](https://wikipedia.org/wiki/CSS)
+[![SASS Badge](https://img.shields.io/badge/sass-hotpink?style=flat&logo=SASS&logoColor=white)](https://sass-lang.com/)
+[![TailwindCSS Badge](https://img.shields.io/badge/tailwind_css-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-</div>
+### Backend technologies
+[![Node.js Badge](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Deno Badge](https://img.shields.io/badge/deno-000000?style=flat&logo=deno&logoColor=white)](https://deno.com/)
+[![Bun Badge](https://img.shields.io/badge/bun-%23000000?style=flat&logo=bun&logoColor=white)](https://bun.sh/)
+[![Docker Badge](https://img.shields.io/badge/docker-%230db7ed?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Tauri Badge](https://img.shields.io/badge/tauri-%2324C8DB?style=flat&logo=tauri&logoColor=%23FFFFFF)](https://tauri.app/)
+[![Nginx Badge](https://img.shields.io/badge/nginx-%23009639?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com/)
+[![Apache Badge](https://img.shields.io/badge/apache-%23D42029?style=flat&logo=apache&logoColor=white)](https://httpd.apache.org/)
+[![Turbo Badge](https://img.shields.io/badge/turbo%20repo%2Fpack-EF4444?style=flat&logo=turborepo&logoColor=white)](https://turbo.build/)
+[![PNPM Badge](https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white)](https://pnpm.io/)
 
-###
+### Databases
+[![MySQL Badge](https://img.shields.io/badge/mysql-%2300f?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MariaDB Badge](https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white)](https://mariadb.org/)
+[![PlanetScale Badge](https://img.shields.io/badge/planetscale-%23000000?style=flat&logo=planetscale&logoColor=white)](https://planetscale.com/)
+[![PostgreSQL Badge](https://img.shields.io/badge/postgresql-%23316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB Badge](https://img.shields.io/badge/mongodb-%234ea94b?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Redis Badge](https://img.shields.io/badge/redis-%23DD0031?style=flat&logo=redis&logoColor=white)](https://redis.io/)
 
-<div align="center">
-  <a href="https://www.instagram.com/xd_eka/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/565510612956872769" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="kknurarief@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-eka-nur-arief-6b9543267/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+### General
+[![Git Badge](https://img.shields.io/badge/git-%23F05033?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub Badge](https://img.shields.io/badge/github-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![GitHub Actions Badge](https://img.shields.io/badge/github%20actions-%232671E5?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![GitLab Badge](https://img.shields.io/badge/gitlab-%23181717?style=flat&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
+[![Google Cloud Badge](https://img.shields.io/badge/google%20cloud-%234285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Cloudflare Badge](https://img.shields.io/badge/cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
+[![Cloudflare Workers Badge](https://img.shields.io/badge/cloudflare%20workers-F38020.svg?style=flat&logo=cloudflareworkers&logoColor=white)](https://workers.cloudflare.com/)
+[![Grafana Badge](https://img.shields.io/badge/grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com/)
+[![Linux Badge](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)](https://wikipedia.org/wiki/Linux)
+[![Windows Server Badge](https://img.shields.io/badge/windows%20server-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
 
-<div align="center">
-  <img src="metrics/metrics.svg" alt="Metrics" />
-</div>
-
-
-###
+#### Learning
+[![AWS Badge](https://img.shields.io/badge/aws-%23FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
+[![RabbitMQ Badge](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+[![Swift Badge](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
+</details>
