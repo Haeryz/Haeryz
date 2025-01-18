@@ -7,7 +7,7 @@ silly anime girl on the internet.<br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Haeryz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-<details>
+
   <summary>more details about me</summary>
 
 ## 💼 Experience
@@ -64,4 +64,3 @@ silly anime girl on the internet.<br/>
 [![AWS Badge](https://img.shields.io/badge/aws-%23FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
 [![RabbitMQ Badge](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![Swift Badge](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
-</details>
