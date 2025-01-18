@@ -2,11 +2,7 @@
 
 # Silly Anime Girl on the Internet
 
----
 
-<img src=".github/banner.jpg" alt="Banner" width="100%" />
-
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Haeryz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
@@ -74,3 +70,10 @@
 [![Swift Badge](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 
 </details>
+
+
+---
+
+<img src=".github/banner.jpg" alt="Banner" width="100%" />
+
+---
