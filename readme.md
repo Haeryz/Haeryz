@@ -9,6 +9,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haeryz&theme=prussian&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph" />
 </div>
 
+<div align="center">
+  <img src=".github/banner.jpg" alt="Banner" width="30%" />
+  <img src="https://via.placeholder.com/300x200?text=Photo+2" alt="Placeholder 2" width="30%" />
+  <img src="https://via.placeholder.com/300x200?text=Photo+3" alt="Placeholder 3" width="30%" />
+</div>
+
 ---
 
 <details>
@@ -70,9 +76,5 @@
 [![Swift Badge](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 
 </details>
-
----
-
-<img src=".github/banner.jpg" alt="Banner" width="100%" />
 
 ---
