@@ -8,9 +8,9 @@
 </div>
 
 <div align="center">
-  <img src=".github/New V.png" alt="Photo 1" width="30%" style="border: 3px solid #ddd; border-radius: 8px; padding: 5px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-  <img src="https://via.placeholder.com/300x200?text=Photo+2" alt="Placeholder 2" width="30%" style="border: 3px solid #ddd; border-radius: 8px; padding: 5px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-  <img src="https://via.placeholder.com/300x200?text=Photo+3" alt="Placeholder 3" width="30%" style="border: 3px solid #ddd; border-radius: 8px; padding: 5px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src=".github/New V.png" alt="Photo 1" width="30%" style="border: 8px solid #8B7355; border-image: linear-gradient(45deg, #D4AF37, #8B7355, #D4AF37) 1; padding: 12px; margin: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3), inset 0 0 20px rgba(212,175,55,0.2); background: linear-gradient(145deg, #F5E6D3, #E8D4BE); outline: 2px solid #D4AF37; outline-offset: 2px;" />
+  <img src="https://via.placeholder.com/300x200?text=Photo+2" alt="Placeholder 2" width="30%" style="border: 8px solid #8B7355; border-image: linear-gradient(45deg, #D4AF37, #8B7355, #D4AF37) 1; padding: 12px; margin: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3), inset 0 0 20px rgba(212,175,55,0.2); background: linear-gradient(145deg, #F5E6D3, #E8D4BE); outline: 2px solid #D4AF37; outline-offset: 2px;" />
+  <img src="https://via.placeholder.com/300x200?text=Photo+3" alt="Placeholder 3" width="30%" style="border: 8px solid #8B7355; border-image: linear-gradient(45deg, #D4AF37, #8B7355, #D4AF37) 1; padding: 12px; margin: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3), inset 0 0 20px rgba(212,175,55,0.2); background: linear-gradient(145deg, #F5E6D3, #E8D4BE); outline: 2px solid #D4AF37; outline-offset: 2px;" />
 </div>
 
 ---
