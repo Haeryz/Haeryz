@@ -1,4 +1,4 @@
-<img align="right" src=".github/avatar.jpg" width="30%" height="30%" />
+<img align="right" src=".github/New V.png" width="30%" height="30%" />
 
 # Silly Anime Girl on the Internet
 
