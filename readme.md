@@ -1,5 +1,3 @@
-<img align="right" src=".github/New V.png" width="30%" height="30%" />
-
 # Silly Anime Girl on the Internet
 
 ![](https://komarev.com/ghpvc/?username=Haeryz)
@@ -10,9 +8,9 @@
 </div>
 
 <div align="center">
-  <img src=".github/New V.png" alt="Photo 1" width="30%" />
-  <img src="https://via.placeholder.com/300x200?text=Photo+2" alt="Placeholder 2" width="30%" />
-  <img src="https://via.placeholder.com/300x200?text=Photo+3" alt="Placeholder 3" width="30%" />
+  <img src=".github/New V.png" alt="Photo 1" width="30%" style="border: 3px solid #ddd; border-radius: 8px; padding: 5px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="https://via.placeholder.com/300x200?text=Photo+2" alt="Placeholder 2" width="30%" style="border: 3px solid #ddd; border-radius: 8px; padding: 5px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="https://via.placeholder.com/300x200?text=Photo+3" alt="Placeholder 3" width="30%" style="border: 3px solid #ddd; border-radius: 8px; padding: 5px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
 ---
